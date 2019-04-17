@@ -1,0 +1,28 @@
+body
+{
+    font-family: inherit, sans-serif;
+    font-size: 12pt;
+    margin-bottom: 10px;
+    background-image: url("img/aq.jpg");
+    background-size:cover;
+    background-attachment:fixed;
+    
+}
+#header_id {
+    
+    padding-left: 20px;
+    
+}
+
+#header_ida {
+    
+    
+    padding-left: 20px;
+    
+}
+
+.head h3{
+    text-decoration: none;
+    text-decoration-color: black;
+    margin-left: 1em;
+}
