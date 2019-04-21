@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-https://com421-project.github.io/Website/. 
+
 
 You can use the [editor on GitHub](https://github.com/com421-project/Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
