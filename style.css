@@ -137,7 +137,15 @@ li a:hover {
   float: left;
 }
 
-
+.kundregister_grid_1 {
+    display: inline-block;
+    float: left;
+    margin: 0; 
+    text-align: center;
+}
+.kundregister_grid_1 {
+    width: 140px;
+}
 /*============= COURSE SECTION =============*/
 
 .narrow {
